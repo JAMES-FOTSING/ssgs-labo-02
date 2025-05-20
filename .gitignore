@@ -2,18 +2,35 @@
 __pycache__/
 *.py[cod]
 
-# Environments
+# Dependency directories
 .env
 .venv
 env/
 venv/
 
-# Distribution / packaging
+# Build output
 build/
 dist/
-*.egg-info/
 
 # Unit test / coverage reports
 .coverage
 .pytest_cache/
 htmlcov/
+
+# Node.js specific
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+package-lock.json
+yarn.lock
+.pnpm-lock.yaml
+
+# Logs
+logs/
+*.log
+
+# Miscellaneous
+.DS_Store
+Thumbs.db
