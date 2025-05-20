@@ -25,6 +25,18 @@ Buona analisi e buon lavoro!
 
 *(Questa sezione dovrà essere completata dallo studente come parte dell'Esercizio 1, includendo i comandi per installare le dipendenze ed eseguire l'applicazione e i test).*
 
----
+**Installazione**
+clonare il progetto sulla votra macchina con il cammando: git clone https://github.com/JAMES-FOTSING/ssgs-labo-02
+sulla tua macchina posizionarti nella cartella contente il progetto.
+
+1. usi npm install per instalare le dipendenze
+
+## Test
+usi il commando segeuente per il test
+1. npm test
+
+## avvio del labo string 
+1. npm start
+
 
 *Suggerimento: Presta particolare attenzione ai requisiti dell'Esercizio 1 del laboratorio per completare e correggere questo README e gli altri file di configurazione.*
