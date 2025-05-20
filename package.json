@@ -1,12 +1,16 @@
 {
   "name": "labo-string",
   "version": "1.0.0",
-  "description": "",
-  "main": "app.js",
+  "description": "semplice Command-Line Interface (CLI) Node.js che offre diverse utilità per la manipolazione di stringhe.",
+  "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest --coverage",
+    "start": "node index.js"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "keywords": ["string", "utils", "cli"],
+  "author": "James Fotsing",
+  "license": "ISC",
+  "engines": {
+    "node": ">=20.0.0"
+  }
 }
